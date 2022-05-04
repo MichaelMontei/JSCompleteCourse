@@ -9,8 +9,19 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+function askingQuestions() {
 
-    // your code here
+    let age = prompt("What is your age?");
+    let gender = prompt("What is you gender?");
+    let city = prompt("What city do you live in?");
+    let check = confirm("Hello, you are " + age + " years old. You are a " + gender + " and you live in " + city + "!");
+    console.log(check);
 
-})();
+    if (check === true) {
+
+    } else {
+        askingQuestions();
+    }
+}
+
+askingQuestions();
