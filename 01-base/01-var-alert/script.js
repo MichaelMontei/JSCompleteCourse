@@ -10,7 +10,7 @@
 // You will have time to focus on it later.
 
 let Hello = "Hello, World!";
-alert(Hello)
+alert(Hello);
 
 (function() {
 
