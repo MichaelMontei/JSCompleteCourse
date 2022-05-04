@@ -9,8 +9,12 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
+let nickname = prompt("Enter your name");
+alert("Hello, " + nickname + "!");
+
+
+
 (function() {
 
-    // your code here
 
 })();
