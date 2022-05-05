@@ -11,6 +11,20 @@
 
 (function() {
 
-    // your code here
+    let inputYear = document.getElementById("dob-year")
 
+    const target = document.getElementById('target');
+    const btnRun = document.getElementById('run');
+    const date = new Date();
+    let day = date.getDay();
+    let month = date.getMonth();
+    let year = date.getFullYear();
+
+    btnRun.addEventListener('click',calculate)
+
+    function calculate(){
+        let calculatedYears = year - inputYear.value;
+        let message = "You are: " + calculatedYears + " years";
+        target.innerHTML = message;
+    }
 })();

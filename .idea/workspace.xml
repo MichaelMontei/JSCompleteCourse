@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/00-readit-fixit-writeit/02-Fix-It/05/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/00-readit-fixit-writeit/02-Fix-It/05/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/02/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-dates/01-title-by-hour-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/01-title-by-hour-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-dates/02-title-by-hour-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/02-title-by-hour-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-dates/03-age-by-select/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/03-age-by-select/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-dates/03-age-by-select/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/03-age-by-select/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-dates/04-locale-date-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/04-locale-date-Optional/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +41,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1yivnJOHTsWFbL5jPBiE7uUrN2G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,13 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +75,12 @@
       <updated>1632747388566</updated>
       <workItem from="1632747389596" duration="3106000" />
       <workItem from="1632829957959" duration="17000" />
+      <workItem from="1651666351459" duration="198000" />
+      <workItem from="1651666562283" duration="68000" />
+      <workItem from="1651666641523" duration="1320000" />
+      <workItem from="1651667981913" duration="835000" />
+      <workItem from="1651668860873" duration="5950000" />
+      <workItem from="1651734045672" duration="18606000" />
     </task>
     <servers />
   </component>
@@ -72,6 +97,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
