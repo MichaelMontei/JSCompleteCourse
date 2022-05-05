@@ -9,8 +9,22 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+(function (){
 
-    // your code here
+   let button = document.getElementById('run');
+   button.addEventListener ("click", () => {
+       let randomColor = makeNewColor();
+
+   document.body.style.backgroundColor = randomColor;
+   });
+
+function makeNewColor(){
+    let r = Math.floor(Math.random() * 256);
+    let g = Math.floor(Math.random() * 256);
+    let b = Math.floor(Math.random() * 256);
+    let BgColor = "rgb(" + r + "," + g + "," + b + ")";
+    return BgColor;
+}
 
 })();
+
