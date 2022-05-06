@@ -9,22 +9,44 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
+    // What do we need
+    const numberOne = document.getElementById('op-one');
+    const numberTwo = document.getElementById('op-two');
+    const target = document.getElementById('target');
+
+
 (function() {
     // to get the value of an input: document.getElementById("element-id").value
 
     document.getElementById("addition").addEventListener("click", function() {
-        // perform an addition
+        //We need to Parseint the numbers into values
+        const numberOneValue = parseInt(numberOne.value);
+        const numberTwoValue = parseInt(numberTwo.value);
+        let sum = numberOneValue + numberTwoValue;
+        target.innerHTML = "The sum of the number" + " = " + sum;
     });
 
     document.getElementById("substraction").addEventListener("click", function() {
-        // perform an substraction
+
+        const numberOneValue = parseInt(numberOne.value);
+        const numberTwoValue = parseInt(numberTwo.value);
+        let sub = numberOneValue - numberTwoValue;
+        target.innerHTML = "The subtraction of the numbers" + " = " + sub;
     });
 
     document.getElementById("multiplication").addEventListener("click", function() {
-        // perform an multiplication
+
+        const numberOneValue = parseInt(numberOne.value);
+        const numberTwoValue = parseInt(numberTwo.value);
+        let mul = numberOneValue * numberTwoValue;
+        target.innerHTML = "The multiplication of the numbers" + " = " + mul;
     });
 
     document.getElementById("division").addEventListener("click", function() {
-        // perform an division
+
+        const numberOneValue = parseInt(numberOne.value);
+        const numberTwoValue = parseInt(numberTwo.value);
+        let div = numberOneValue / numberTwoValue;
+        target.innerHTML = "The dividing of the numbers" + " = " + div;
     });
 })();

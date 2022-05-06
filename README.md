@@ -1,3 +1,27 @@
+## My JavaScript Progress ##
+
+##### 01 - base #####
+- [X] [Var Alert](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/01-base/01-var-alert/script.js)
+- [X] [Var Prompt](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/01-base/02-var-prompt/script.js)
+- [X] [Prompt If](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/01-base/03-prompt-if/script.js)
+- [X] [AGT Confirm](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/01-base/04-agt-confirm/script.js)
+##### 02 - colors #####
+- [X] [Change BCG One](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/02-colors/01-change-bcg-one/script.js)
+- [X] [Change BCG Two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/02-colors/02-change-bcg-two/script.js)
+- [X] [Change BCG Three](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/02-colors/03-change-bcg-three/script.js)
+##### 03 - dates #####
+- [X] [Title by Hour one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/01-title-by-hour-one/script.js)
+- [X] [Title by Hour two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/02-title-by-hour-two/script.js)
+- [X] [Age by select](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/03-age-by-select/script.js)
+- [X] [Locale date Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/04-locale-date-Optional/script.js)
+- [X] [Get Spooky Firdays Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/05-get-spooky-fridays-Optional/script.js)
+##### 04 - maths #####
+- [X] [calculator-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/01-calculator-one/script.js)
+- [X] [calculator-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/02-calculator-two/script.js)
+
+
+
+
 # The fields: JavaScript
 
 Welcome to the JavaScript folder.
