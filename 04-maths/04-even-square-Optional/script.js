@@ -12,6 +12,12 @@
 (function() {
 
     document.getElementById("run").addEventListener("click", function() {
+        let i = 1;
+        for(i=1; i<=21; i++){
+            let result = i*i;
+            console.log(result)
+            document.getElementById("target").innerHTML = result;
+        }
 
         // your code here
 
