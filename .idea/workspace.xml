@@ -24,12 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-dates/05-get-spooky-fridays-Optional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/05-get-spooky-fridays-Optional/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-dates/05-get-spooky-fridays-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-dates/05-get-spooky-fridays-Optional/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-maths/01-calculator-one/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-maths/01-calculator-one/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-maths/01-calculator-one/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-maths/02-calculator-two/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-maths/02-calculator-two/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-maths/02-calculator-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-maths/03-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-maths/03-fizzbuzz/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1651771074493" duration="590000" />
       <workItem from="1651819251884" duration="9955000" />
       <workItem from="1651829395311" duration="1328000" />
-      <workItem from="1651830796392" duration="2379000" />
+      <workItem from="1651830796392" duration="2927000" />
     </task>
     <servers />
   </component>
