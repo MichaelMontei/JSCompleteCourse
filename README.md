@@ -18,7 +18,7 @@
 ##### 04 - maths #####
 - [X] [calculator-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/01-calculator-one/script.js)
 - [X] [calculator-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/02-calculator-two/script.js)
-
+- [X] [Fizzbuzz :D](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/03-fizzbuzz/script.js)
 
 
 
