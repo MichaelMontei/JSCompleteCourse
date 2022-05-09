@@ -27,5 +27,8 @@
     ];
 
     // your code here
+    fruits.forEach(function(list){
+        console.log(list);
+    })
 
 })();
