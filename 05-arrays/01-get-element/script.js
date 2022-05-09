@@ -27,5 +27,12 @@
     ];
 
     // your code here
+    let element = fruits[3];
+    let target = document.getElementById("target");
+    let run = document.getElementById("run").addEventListener("click", function(){
 
+        target.innerHTML = element;
+
+    });
+    
 })();
