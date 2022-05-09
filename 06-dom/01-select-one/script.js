@@ -12,5 +12,8 @@
 (function() {
 
     // your code here
+    //innerHtml not working , need innerText!
+    document.getElementById("target").innerText = "Owned";
+
 
 })();
