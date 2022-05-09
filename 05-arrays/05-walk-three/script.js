@@ -40,5 +40,8 @@
     ];
 
     // your code here
+    people.forEach(function(list){
+        console.log(list.firstname, list.lastname);
+    })
 
 })();
