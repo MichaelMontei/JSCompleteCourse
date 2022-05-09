@@ -12,5 +12,6 @@
 (function() {
 
     // your code here
-
+    //query selector # nodig op target
+    document.querySelector("#target").innerText = "Owned";
 })();
