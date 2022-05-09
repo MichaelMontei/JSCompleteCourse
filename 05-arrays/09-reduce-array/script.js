@@ -90,5 +90,13 @@
     ];
 
     // your code here
+    document.getElementById('run').addEventListener('click', () => {
 
+        let totalAge = 0;
+        people.forEach(list =>{
+            totalAge += list.age
+        })
+
+        console.log(totalAge);
+    })
 })();
