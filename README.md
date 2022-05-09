@@ -16,10 +16,28 @@
 - [X] [Locale date Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/04-locale-date-Optional/script.js)
 - [X] [Get Spooky Firdays Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/03-dates/05-get-spooky-fridays-Optional/script.js)
 ##### 04 - maths #####
-- [X] [calculator-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/01-calculator-one/script.js)
-- [X] [calculator-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/02-calculator-two/script.js)
+- [X] [Calculator-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/01-calculator-one/script.js)
+- [X] [Calculator-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/02-calculator-two/script.js)
 - [X] [Fizzbuzz :D](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/03-fizzbuzz/script.js)
-- [X] [even-square-Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/04-even-square-Optional/script.js)
+- [X] [Even-square-Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/04-even-square-Optional/script.js)
+- [X] [Sort-numbers-Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/05-sort-numbers-Optional/script.js)
+- [X] [Factorial-Optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/04-maths/06-factorial-Optional/script.js)
+##### 05 - arrays #####
+- [X] [Get-element](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/01-get-element/script.js)
+- [X] [Manipulate-array](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/02-manipulate-array/script.js)
+- [X] [Walk-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/03-walk-one/script.js)
+- [X] [Walk-two]
+- [X] [Walk-three]
+- [X] [Find-in-array]
+- [X] [Filter-array]
+- [X] [Array-includes]
+- [X] [Reduce-array]
+- [X] [Dedupe-array-optional]
+- [X] [Rand-array-stats-optional]
+
+
+
+
 
 
 # The fields: JavaScript
