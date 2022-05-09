@@ -14,9 +14,25 @@
     // to get the value of an input: document.getElementById("element-id").value
 
     document.getElementById("run").addEventListener("click", function() {
-
         // your code here
+        const number = document.getElementById("number").value;
+        const target = document.getElementById("target");
 
+        if (number < 0) {
+            console.log('Error! Factorial for negative number does not exist.');
+        }
+        // if number is 0
+        else if (number === 0) {
+            console.log(`The factorial of ${number} is 1.`);
+        }
+        // if number is positive
+        else {
+            let factorial = 1;
+            for (let i = 1; i <= number; i++) {
+                factorial *= i;
+            }
+            target.innerHTML = (`The factorial of ${number} is ${factorial}.`);
+        }
     });
 
 })();
