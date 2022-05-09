@@ -26,15 +26,27 @@
 - [X] [Get-element](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/01-get-element/script.js)
 - [X] [Manipulate-array](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/02-manipulate-array/script.js)
 - [X] [Walk-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/03-walk-one/script.js)
-- [X] [Walk-two]
-- [X] [Walk-three]
-- [X] [Find-in-array]
-- [X] [Filter-array]
-- [X] [Array-includes]
-- [X] [Reduce-array]
-- [X] [Dedupe-array-optional]
-- [X] [Rand-array-stats-optional]
-
+- [X] [Walk-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/04-walk-two/script.js)
+- [X] [Walk-three](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/05-walk-three/script.js)
+- [X] [Find-in-array](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/06-find-in-array/script.js)
+- [X] [Filter-array](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/07-filter-array/script.js)
+- [X] [Array-includes](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/08-array-includes/script.js)
+- [X] [Reduce-array](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/09-reduce-array/script.js)
+- [X] [Dedupe-array-optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/10-dedupe-array-Optional/script.js)
+- [X] [Rand-array-stats-optional](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/05-arrays/11-rand-array-stats-Optional/script.js)
+##### 06 - dom #####
+- [X] [Select-one](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/06-dom/01-select-one/script.js)
+- [X] [Select-two](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/06-dom/02-select-two/script.js)
+- [X] [Select-three](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/06-dom/03-select-three/script.js)
+- [X] [Attr-create](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/06-dom/04-attr-create/script.js)
+- [X] [Hover-image](https://github.com/MichaelMontei/JSCompleteCourse/blob/main/06-dom/05-hover-image/script.js)
+- [X] [Generate-table-one]
+- [X] [Generate-table-two-optional]
+- [X] [Match-password-one]
+- [X] [Match-password-two-optional]
+- [X] [Change-event-input-one]
+- [X] [Change-event-input-two-optional]
+- [X] [Mini-carousel-optional]
 
 
 
