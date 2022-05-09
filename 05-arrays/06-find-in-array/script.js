@@ -90,5 +90,15 @@
     ];
 
     // your code here
+    document.getElementById('run').addEventListener('click', () => {
+
+        let whoIsThis =  people.forEach(function(list){
+            if(list.firstname === 'Jean' && list.lastname === 'Dupont'){
+                console.log(list.email);
+                console.log(people.indexOf(whoIsThis));
+            }
+
+        })
+    })
 
 })();
