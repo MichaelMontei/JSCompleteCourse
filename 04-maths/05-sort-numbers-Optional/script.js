@@ -12,11 +12,13 @@
 (function() {
 
     // to get the value of an input: document.getElementById("element-id").value
+    const numbers = [2, 4, 14, 10, 90, 23, 16]
 
     document.getElementById("run").addEventListener("click", function() {
 
-        // your code here
-
+        const points = [2, 4, 14, 10, 90, 23, 16]
+        points.sort(function(a, b){return a-b});
+        document.getElementById("target").innerHTML = points;
     });
 
 })();
