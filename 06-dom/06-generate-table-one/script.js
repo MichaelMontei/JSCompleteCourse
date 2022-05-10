@@ -12,5 +12,14 @@
 (function() {
 
     // your code here
+    let table = document.createElement('table');
 
+    for(let i=0; i < 10; i++){
+        table.insertRow().innerHTML = `Row number: ${i+1}`
+    }
+
+
+
+
+    document.getElementById('target').appendChild(table);
 })();
