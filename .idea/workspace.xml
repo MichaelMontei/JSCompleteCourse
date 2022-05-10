@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-dom/08-match-password-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/08-match-password-one/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1652079789265" duration="9472000" />
       <workItem from="1652097342383" duration="2070000" />
       <workItem from="1652108707356" duration="10000" />
-      <workItem from="1652166992707" duration="5615000" />
+      <workItem from="1652166992707" duration="8211000" />
     </task>
     <servers />
   </component>
