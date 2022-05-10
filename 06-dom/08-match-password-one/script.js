@@ -13,4 +13,16 @@
 
     // your code here
 
+
+    document.getElementById('run').addEventListener('click', ()=>{
+        const passwordOne = document.getElementById('pass-one');
+        const passwordTwo = document.getElementById('pass-two');
+        if(passwordOne.value != passwordTwo.value){
+            passwordOne.style.border = '10px solid red';
+            passwordTwo.style.border = '10px solid red';
+        }else{
+
+        }
+    })
+
 })();
