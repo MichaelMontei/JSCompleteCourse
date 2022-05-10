@@ -12,5 +12,15 @@
 (function() {
 
     // your code here
+    //Check DOM of Document to get the selector
+    //console.dir(document.all);
+    const source = document.getElementById("source").getAttribute("data-image");
+    const target = document.getElementById("target");
+
+    let newImage = document.createElement("img");
+    newImage.src = source;
+
+    target.appendChild(newImage);
+
 
 })();
