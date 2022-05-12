@@ -13,7 +13,7 @@
 
     //https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
     document.getElementById('run').addEventListener("click", ()=>{
-        fetch("http://localhost:63342/index.html/_shared/api.json")
+        fetch("../../_shared/api.json")
             .then(response => response.json)
             .then (data => console.log(data));
     })

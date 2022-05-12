@@ -23,9 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-fetch/01-list-to-console/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/01-list-to-console/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-fetch/02-details/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/02-details/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-fetch/02-details/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/02-details/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-fetch/03-list-to-template-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/03-list-to-template-Optional/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +54,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -89,6 +93,9 @@
       <workItem from="1652199593394" duration="5000" />
       <workItem from="1652254864918" duration="1865000" />
       <workItem from="1652256818344" duration="3575000" />
+      <workItem from="1652339144838" duration="544000" />
+      <workItem from="1652339711307" duration="2425000" />
+      <workItem from="1652342178761" duration="17040000" />
     </task>
     <servers />
   </component>
