@@ -10,5 +10,21 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+
+    const url = "../../_shared/api.json";
+
+        async function getHeroes(){
+            let response = await fetch(url)
+            let data = await response.json();
+            let heroes = data.heroes
+            console.log(heroes);
+        }
+        getHeroes();
+
+        document.getElementById('run').addEventListener("click", ()=>{
+            const nameHero = document.getElementById("hero-id").value;
+            let found = heroes.find(hero => hero.id == nameHero );
+            heroes.splice(heroes.indexOf(found) , 1);
+            console.log(heroes);
+    })
 })();
