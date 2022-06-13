@@ -11,6 +11,34 @@
 
 (function() {
 
-    // your code here
+    const columns = 10;
+    const rows = 10;
 
+    const target = document.getElementById('target');
+
+    // function how to make a table
+    createTable(columns, rows);
+
+    function createTable(columns,rows) {
+        // you create a table and you push it to id target
+        const table = document.createElement("table");
+        target.appendChild(table);
+
+
+        for (let i = 1; i <= rows; i++) {
+            //This way you can make 10 rows
+            let row = document.createElement("tr");
+
+            for (let j = 1; j <= columns; j++) {
+                //this way you can make 10 columns
+                let data = document.createElement("td");
+                // put data in the columns
+                data.textContent = `${i}*${j} = ${i*j}`;
+                //push table data to columns
+                row.appendChild(data);
+            }
+            // push row to html
+            table.appendChild(row);
+        }
+    }
 })();
